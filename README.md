@@ -39,7 +39,7 @@ sudo ln -s /home/[username]/workspace/collectd.conf /etc/collectd/collectd.conf
  
  
  Note : 
- * * If everything works fine then we should get the following message in the terminal : ``Active: active (running) ```
+ * * If everything works fine then we should get the following message in the terminal : ```Active: active (running) ```
  * * We will also be able to see that collectd was initialized and plugins were loaded in your collectd.log file.
  
   
